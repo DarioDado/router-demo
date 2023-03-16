@@ -1,0 +1,12 @@
+
+
+
+
+.post {
+	cursor: pointer;
+	font-weight: 600;
+}
+
+.post:hover {
+	color: aquamarine;
+}
