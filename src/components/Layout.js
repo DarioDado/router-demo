@@ -11,6 +11,7 @@ export const Layout = () => {
         <p onClick={() => navigate('/contact')}>Contact</p>
         <p onClick={() => navigate('/posts')}>Posts</p>
       </div>
+      <>Search</>
       <div className="main-content-wrapper">
         <Outlet />
       </div>
